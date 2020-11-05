@@ -1,7 +1,6 @@
 #What's up guys,my name is Lia! 🥰
 
-I'am currently studying Full Stack development, artificial intelligence and quantum computing. Course software engineering and am passionate about technology and programming.
-
+I am currently studying Full Stack development, artificial intelligence and quantum intellectual. I am a software engineering graduate student and I am passionate about technology and programming.
 
 
 **Find me on:**
