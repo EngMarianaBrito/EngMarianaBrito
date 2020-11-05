@@ -1,8 +1,9 @@
-#What's up guys,my name is Lia! 🥰
+# What's up guys,my name is Lia! 🥰
 
 I am currently studying Full Stack development, artificial intelligence and quantum intellectual. I am a software engineering graduate student and I am passionate about technology and programming.
----
+
 __Languages and Tools:__
+
 ---
 **Find me on:**
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EngMarianaBrito)](https://github.com/EngMarianaBrito)
