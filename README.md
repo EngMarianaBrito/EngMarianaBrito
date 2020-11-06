@@ -2,6 +2,8 @@
 
 I am currently studying Full Stack development, artificial intelligence and quantum intellectual. I am a software engineering graduate student and I am passionate about technology and programming.
 
+[![Gif lia mariana](https://giphy.com/gifs/platzi-stem-developer-programadora-fAnzw6YK33jMwzp5wp)]
+
 __+ Languages and Tools:__
 * Java
 * Python
