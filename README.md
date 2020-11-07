@@ -1,4 +1,4 @@
-# 💖 A little of my professional history   
+# A little of my professional history!
 
 ### What's up guys,my name is Lia! 👋 
 
