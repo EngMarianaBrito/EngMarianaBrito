@@ -1,4 +1,5 @@
-# A little of my professional history   
+# 💖 A little of my professional history   
+
 ### What's up guys,my name is Lia! 👋 
 
 I am currently studying Full Stack development, artificial intelligence, quantum computing and forence. I do software engineering and I'm passionate about programming, designer and innovation.
