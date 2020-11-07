@@ -4,13 +4,15 @@ I am currently studying Full Stack development, artificial intelligence and quan
 
 __+ My Staks are:__
 * Java
-* JavaScript
+* JavaScript                                                               
 * Python
 * Git
 * Node
 * React
 * Html + Css
 * Portugol
+
+---
 **+Find me on:**
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EngMarianaBrito)](https://github.com/EngMarianaBrito)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ʟɪᴀ-ᴍᴀʀɪᴀɴᴀ-b105541a8)](https://www.linkedin.com/in/ʟɪᴀ-ᴍᴀʀɪᴀɴᴀ-b105541a8)
@@ -18,5 +20,6 @@ __+ My Staks are:__
 ---
 
 ![Gif lia mariana](https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif)
+
 
 
