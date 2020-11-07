@@ -1,6 +1,6 @@
-# + What's up guys,my name is Lia! 🥰   
+# > What's up guys,my name is Lia! 🥰   
 
-I am currently studying Full Stack development, artificial intelligence and quantum intellectual. I am a software engineering graduate student and I am passionate about technology and programming.
+I'am currently studying Full Stack development, artificial intelligence and quantum intellectual. I am a software engineering graduate student and I am passionate about technology and programming.
 
 __+ My Staks are:__
 * Java
@@ -19,7 +19,8 @@ __+ My Staks are:__
 [![Instragram Badge](https://img.shields.io/badge/-Instagram-3f729b?style=flat-square&labelColor=3f729b&logo=Instagram&logoColor=white&link=https://instagram.com/liamarianab.dev?igshid=18z5t37bme6y0)](https://instagram.com/liamarianab.dev?igshid=18z5t37bme6y0)
 ---
 
-![Gif lia mariana](https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif)
+![Gif lia mariana width: 768px;
+    height: 576px;](https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif)
 
 
 
