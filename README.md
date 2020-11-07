@@ -24,4 +24,3 @@ __𝗠𝘆 𝘀𝘁𝗮𝗰𝗸𝘀 𝗮𝗿𝗲:__
 
 ![Gif lia mariana](https://media.giphy.com/media/ksjExXqgrmcrwKEtrn/giphy.gif)
 
-
