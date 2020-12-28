@@ -38,8 +38,6 @@ I am currently studying Full Stack development, artificial intelligence, quantum
 
 <hr/>
 <div align="center">
----
-**👩🏽‍💻 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗼𝗻:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ʟɪᴀ-ᴍᴀʀɪᴀɴᴀ-b105541a8)
 [![Instragram Badge](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=instagram&logoColor=white)](https://instagram.com/liamarianab.dev?igshid=18z5t37bme6y0)
