@@ -1,15 +1,16 @@
-# 𝗔 𝗹𝗶𝘁𝘁𝗹𝗲 𝗼𝗳 𝗺𝘆 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗵𝗶𝘀𝘁𝗼𝗿𝘆 ! ❣️
+# Um pouco da minha história profissional ❣️
 
-(BR) _Uma linha de código de cada vez até que eu possa mudar o mundo_
-(EN) _One line of code at a time until I can change the world._
+* (BR) _Uma linha de código de cada vez até que eu possa mudar o mundo_
+* (EN) _One line of code at a time until I can change the world._
 
 ## 𝗪𝗵𝗮𝘁´𝘀 𝘂𝗽 𝗴𝘂𝘆𝘀,𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗟𝗶𝗮! 👋 
+Olá, me chamo Lia, sou estudante de Engenharia de Software no Icev, e sou apaixonado por programação, música ,dança e tecnologia em geral.
 
-I am currently studying Full Stack development, artificial intelligence, quantum computing and forence. I do software engineering and I'm passionate about programming, designer and innovation.
+Meu primeiro contato com a programação foi em 2015,desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar uma excelente engenheira.
 
 <details>
 <summary>
-  <strong>🛠 Languages </strong>
+  <strong>🛠 Lin trong>
 </summary>
 
 * ![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
