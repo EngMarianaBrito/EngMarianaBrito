@@ -1,6 +1,6 @@
 # Um pouco da minha história profissional ❣️
 
-_Uma linha de código de cada vez até que eu possa mudar o mundo_
+> "Uma linha de código de cada vez até que eu possa mudar o mundo"
 
 Olá, me chamo Lia, sou estudante de Engenharia de Software no Icev, e sou apaixonado por programação, música ,dança e tecnologia em geral.
 
