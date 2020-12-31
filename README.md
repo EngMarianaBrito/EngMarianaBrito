@@ -2,9 +2,7 @@
 
 > "Uma linha de código de cada vez até que eu possa mudar o mundo"
 
-<p aling ="center">
-  <img width "600" heigth "300" src="src/assets/to_readme/the.gif"
-</p>
+<img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/the.gif" width="700" height="450" />
 
 Olá, me chamo Lia, sou estudante de Engenharia de Software no Icev, e sou apaixonado por programação, música ,dança e tecnologia em geral.
 
