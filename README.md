@@ -1,8 +1,9 @@
+
 # Um pouco da minha história profissional ❣️
 
 > "Uma linha de código de cada vez até que eu possa mudar o mundo"
 
-<img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/the.gif" width="700" height="450" />
+<img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/the.gif" width="900" height="500" />
 
 Olá, me chamo Lia e como Einstein eu não tenho nenhum talento especial,sou apenas uma estudante de Engenharia de Software apaixonada por programação e que tem muita entusiasmo em aprender coisas nova.
 
@@ -30,8 +31,7 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 
 * ![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
 * ![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)  
-* ![Node](https://img.shields.io/badge/-Node-060606?style=flat&logo=Node)
-* ![React](https://img.shields.io/badge/-React-060606?style=flat&logo=React)
+
 * ![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
 * ![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=GitHub)
 * ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
@@ -48,3 +48,6 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 [![Gmail Badge](https://img.shields.io/badge/-Gmaill-060606?style=flat&labelColor=0D0D0D&logo=Microsoft-Outlook&Color=white)](mailto:marianabrito1791@gmail.com)
 
 </div>
+
+
+
