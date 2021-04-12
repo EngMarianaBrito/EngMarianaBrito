@@ -15,8 +15,7 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
   <strong>🛠 Linguagens <strong>
 </summary>
 
-* ![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
-* ![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
+* ![C](https://img.shields.io/badge/-C-060606?style=flat&logo=C)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
 * ![Java](https://img.shields.io/badge/-Java-060606?style=flat&logo=Java)
 * ![Python](https://img.shields.io/badge/-Python-060606?style=flat&logo=Python)
@@ -28,7 +27,9 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 <summary>
   <strong>⚙ EXTRA</strong>
 </summary>
-  
+
+* ![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
+* ![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)  
 * ![Node](https://img.shields.io/badge/-Node-060606?style=flat&logo=Node)
 * ![React](https://img.shields.io/badge/-React-060606?style=flat&logo=React)
 * ![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
@@ -44,8 +45,6 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ʟɪᴀ-ᴍᴀʀɪᴀɴᴀ-b105541a8)
 [![Instragram Badge](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=instagram&logoColor=white)](https://instagram.com/liamarianab.dev?igshid=18z5t37bme6y0)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-060606?style=flat&labelColor=0D0D0D&logo=Microsoft-Outlook&Color=white)](mailto:marianabrito1791@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmaill-060606?style=flat&labelColor=0D0D0D&logo=Microsoft-Outlook&Color=white)](mailto:marianabrito1791@gmail.com)
 
 </div>
-
-
