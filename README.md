@@ -4,8 +4,7 @@
 
 <img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/the.gif" width="700" height="450" />
 
-Olá, me chamo Lia, sou estudante de Engenharia de Software no Icev, e sou apaixonado por programação, música ,dança e tecnologia em geral.
-
+Olá, me chamo Lia e como Einstein eu não tenho nenhum talento especial,sou apenas uma estudante de Engenharia de Software apaixonada por programação e que tem muita entusiasmo em aprender coisas novas. 
 Meu primeiro contato com a programação foi em 2015,desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar uma excelente engenheira.
 
 <details>
