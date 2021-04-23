@@ -3,17 +3,12 @@
 
 <img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/the.gif" width="900" height="500" />
 
+> "Uma linha de código de cada vez até que eu possa mudar o mundo"
+
 Olá, me chamo Lia e como Einstein eu não tenho nenhum talento especial,sou apenas uma estudante de Engenharia de Software apaixonada por programação e que tem muita entusiasmo em aprender coisas nova.
 
 Meu primeiro contato com a programação foi em 2015,desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar uma excelente engenheira.♥️ 
 
-<center>
-<table>
-    <tr>
-        <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=EngMarianaBrito&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
 <summary>
   <strong>🛠 Linguagens <strong>
 </summary>
@@ -40,10 +35,15 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 * ![GoogleADS](https://img.shields.io/badge/-GoogleADS-060606?style=flat&logo=GoogleADS)
 
 </details>
+<center>
+<table>
+    <tr>
+        <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=EngMarianaBrito&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
 
 📍@liamarianab_dev
-
-> "Uma linha de código de cada vez até que eu possa mudar o mundo"
 
 <hr/>
 <div align="center">
