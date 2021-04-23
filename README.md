@@ -9,6 +9,7 @@ Olá, me chamo Lia e como Einstein eu não tenho nenhum talento especial,sou ape
 
 Meu primeiro contato com a programação foi em 2015,desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar uma excelente engenheira.♥️ 
 
+<details>
 <summary>
   <strong>🛠 Linguagens <strong>
 </summary>
