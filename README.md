@@ -11,7 +11,13 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 
 📍@liamarianab_dev
 
-<details>
+<center>
+<table>
+    <tr>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=EngMarianaBrito&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
 <summary>
   <strong>🛠 Linguagens <strong>
 </summary>
@@ -31,7 +37,6 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 
 * ![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
 * ![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)  
-
 * ![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
 * ![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=GitHub)
 * ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
