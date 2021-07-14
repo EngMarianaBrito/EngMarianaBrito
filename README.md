@@ -1,7 +1,7 @@
 
-# Um pouco da minha história profissional ❣️
+# Um pouco da minha história profissional ❣
 
-<img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/the.gif" width="900" height="500" />
+<img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/devJunior.gif" width="900" height="500" />
 
 > "Uma linha de código de cada vez até que eu possa mudar o mundo"
 
@@ -54,6 +54,12 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 [![Gmail Badge](https://img.shields.io/badge/-Gmaill-060606?style=flat&labelColor=0D0D0D&logo=Microsoft-Outlook&Color=white)](mailto:marianabrito1791@gmail.com)
 
 </div>
+
+
+
+
+
+
 
 
 
