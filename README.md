@@ -1,9 +1,10 @@
+   # Um pouco da minha história profissional ❣
 
-# Um pouco da minha história profissional ❣
+<div align="center">
+  <img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/devJunior.gif" width="900" height="500" />
+</div>
 
-<img src="https://github.com/EngMarianaBrito/EngMarianaBrito/blob/main/devJunior.gif" width="900" height="500" />
-
-> "Uma linha de código de cada vez até que eu possa mudar o mundo"
+>"Uma linha de código de cada vez até que eu possa mudar o mundo"
 
 Olá, me chamo Lia e como Einstein eu não tenho nenhum talento especial,sou apenas uma estudante de Engenharia de Software apaixonada por programação e que tem muita entusiasmo em aprender coisas nova.
 
@@ -16,7 +17,7 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 
 * ![C](https://img.shields.io/badge/-C-060606?style=flat&logo=C)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
-* ![Java](https://img.shields.io/badge/-Java-060606?style=flat&logo=Java)
+* ![React](https://img.shields.io/badge/-React-060606?style=flat&logo=React)
 * ![Python](https://img.shields.io/badge/-Python-060606?style=flat&logo=Python)
 * ![Portugol](https://img.shields.io/badge/-Portugol-060606?style=flat&logo=Portugol)
 
@@ -36,16 +37,16 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 * ![GoogleADS](https://img.shields.io/badge/-GoogleADS-060606?style=flat&logo=GoogleADS)
 
 </details>
-<center>
-<table>
-    <tr>
-        <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=EngMarianaBrito&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
+<div align="center">
+    <a href="https://github.com/EngMarianaBrito">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngMarianaBrito&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngMarianaBrito&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+  
+ ![Snake animation](https://github.com/EngMarianaBrito/EngMarianaBrito/blob/output/github-contribution-grid-snake.svg)
 
 📍@liamarianab_dev
-
+  
 <hr/>
 <div align="center">
 
@@ -54,9 +55,6 @@ Meu primeiro contato com a programação foi em 2015,desde então venho estudand
 [![Gmail Badge](https://img.shields.io/badge/-Gmaill-060606?style=flat&labelColor=0D0D0D&logo=Microsoft-Outlook&Color=white)](mailto:marianabrito1791@gmail.com)
 
 </div>
-
-
-
 
 
 
